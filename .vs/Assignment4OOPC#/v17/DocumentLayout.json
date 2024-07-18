@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|c:\\users\\ahmed\\desktop\\library\\assignment4oopc#\\assignment4oopc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|c:\\users\\ahmed\\desktop\\library\\assignment4oopc#\\assignment4oopc#\\interface03\\vichle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\interface03\\vichle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|c:\\users\\ahmed\\desktop\\library\\assignment4oopc#\\assignment4oopc#\\interface03\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\interface03\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|c:\\users\\ahmed\\desktop\\library\\assignment4oopc#\\assignment4oopc#\\interface03\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\interface03\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|c:\\users\\ahmed\\desktop\\library\\assignment4oopc#\\assignment4oopc#\\iclonable\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\iclonable\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|c:\\users\\ahmed\\desktop\\library\\assignment4oopc#\\assignment4oopc#\\interface\\seriesbyfour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\interface\\seriesbyfour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|c:\\users\\ahmed\\desktop\\library\\assignment4oopc#\\assignment4oopc#\\interface03\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\interface03\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|c:\\users\\ahmed\\desktop\\library\\assignment4oopc#\\assignment4oopc#\\interface\\iseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\interface\\iseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|c:\\users\\ahmed\\desktop\\library\\assignment4oopc#\\assignment4oopc#\\interface\\seriesbythree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\interface\\seriesbythree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|c:\\users\\ahmed\\desktop\\library\\assignment4oopc#\\assignment4oopc#\\interface\\seriesbytwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\interface\\seriesbytwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\assignment4oopc#\\question3\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\question3\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\assignment4oopc#\\question3\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\question3\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\assignment4oopc#\\question3\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\question3\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\assignment4oopc#\\question3\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\question3\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\assignment4oopc#\\question2\\basicauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA200B22-EA4E-4542-B214-392B24E7E889}|Assignment4OOPC#\\Assignment4OOPC#.csproj|solutionrelative:assignment4oopc#\\question2\\basicauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vichle.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface03\\Vichle.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Interface03\\Vichle.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface03\\Vichle.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Interface03\\Vichle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:52:35.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface03\\IMovable.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Interface03\\IMovable.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface03\\IMovable.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Interface03\\IMovable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:52:32.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFlyable.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface03\\IFlyable.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Interface03\\IFlyable.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface03\\IFlyable.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Interface03\\IFlyable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:52:28.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface03\\Car.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Interface03\\Car.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface03\\Car.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Interface03\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:52:12.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\IClonable\\Employee.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\IClonable\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\IClonable\\Employee.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\IClonable\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:52:02.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeriesByThree.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface\\SeriesByThree.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Interface\\SeriesByThree.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface\\SeriesByThree.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Interface\\SeriesByThree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:51:48.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeriesByFour.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface\\SeriesByFour.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Interface\\SeriesByFour.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface\\SeriesByFour.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Interface\\SeriesByFour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:51:45.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Program.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:27:43.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeriesByTwo.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface\\SeriesByTwo.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Interface\\SeriesByTwo.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface\\SeriesByTwo.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Interface\\SeriesByTwo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:51:52.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISeries.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface\\ISeries.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Interface\\ISeries.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Interface\\ISeries.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Interface\\ISeries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:51:31.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PushNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Question3\\PushNotificationService.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Question3\\PushNotificationService.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Question3\\PushNotificationService.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Question3\\PushNotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:42:18.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SmsNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Question3\\SmsNotificationService.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Question3\\SmsNotificationService.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Question3\\SmsNotificationService.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Question3\\SmsNotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:42:05.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Question3\\EmailNotificationService.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Question3\\EmailNotificationService.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Question3\\EmailNotificationService.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Question3\\EmailNotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:41:51.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Question3\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Question3\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Question3\\INotificationService.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Question3\\INotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:39:55.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BasicAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Question2\\BasicAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Assignment4OOPC#\\Question2\\BasicAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Question2\\BasicAuthenticationService.cs",
+              "RelativeToolTip": "Assignment4OOPC#\\Question2\\BasicAuthenticationService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA+wCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:56:44.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

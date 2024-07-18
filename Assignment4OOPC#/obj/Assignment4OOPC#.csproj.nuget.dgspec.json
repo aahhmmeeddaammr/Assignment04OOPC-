@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Assignment4OOPC#.csproj": {}
+    "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\3.OOP\\Assignment4OOPC#\\Assignment4OOPC#\\Assignment4OOPC#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Assignment4OOPC#.csproj": {
+    "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\3.OOP\\Assignment4OOPC#\\Assignment4OOPC#\\Assignment4OOPC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Assignment4OOPC#.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\3.OOP\\Assignment4OOPC#\\Assignment4OOPC#\\Assignment4OOPC#.csproj",
         "projectName": "Assignment4OOPC#",
-        "projectPath": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\Assignment4OOPC#.csproj",
+        "projectPath": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\3.OOP\\Assignment4OOPC#\\Assignment4OOPC#\\Assignment4OOPC#.csproj",
         "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmed\\Desktop\\Library\\Assignment4OOPC#\\Assignment4OOPC#\\obj\\",
+        "outputPath": "C:\\Users\\Ahmed\\Desktop\\fullstack\\ASP.NET\\3.OOP\\Assignment4OOPC#\\Assignment4OOPC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
